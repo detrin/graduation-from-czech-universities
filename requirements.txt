@@ -1,0 +1,8 @@
+selenium
+requests
+pandas
+matplotlib
+chromedriver_py
+deep-translator
+tqdm
+polars
